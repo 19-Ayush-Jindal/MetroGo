@@ -11,3 +11,9 @@ And basic BFS and DFS tachniques
 Some of Data Structures Used - 
 vectors,maps,graphs,sets,stack,etc.
 
+Features
+● Ticketgeneration
+● Shortestpathfinder
+● GroupJourneyOptimisation 
+● MultipletripOptimisation
+● AutoFillSuggestions
