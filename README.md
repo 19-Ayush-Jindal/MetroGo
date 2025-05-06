@@ -1,6 +1,6 @@
 # MetroGo
 This is my project which i made in  4th semester of my college for my subject Algorithms And Problem Solving.
-It is the simple implementation of different algorithms i learned.
+It is the simple implementation of different algorithms in real life.
 Some of algorithms used are - 
 
 Dijkstra's algorithm (to find shortest route between two stations)
